@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.pinimg.com/736x/16/d5/6c/16d56c75c5fa85eebb5572719c3506fd.jpg"  />
+<img align="left" height="186" src="https://i.pinimg.com/736x/16/d5/6c/16d56c75c5fa85eebb5572719c3506fd.jpg"  />
 
 ###
 
@@ -33,6 +33,13 @@
 
 <h2 align="left">I code with</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
 ###
 
 <div align="left">
